@@ -1,4 +1,4 @@
-# felo_extinction_curve
+# felo_extinction
 
 
 ### Requirements
